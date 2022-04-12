@@ -1,0 +1,58 @@
+[
+    {
+        "id":0,
+        "precio":2000,
+        "title":"Pescado"
+        
+},
+    {
+        "id":1,
+        "precio":3100,
+        "title":"Asado"
+},
+    {
+        "id":2,
+        "precio":200,
+        "title":"Pancho"
+},
+    {
+        "id":3,
+        "precio":800,
+        "title":"Hamburguesa"
+},
+    {
+        "id":4,
+        "precio":300,
+        "title":"Helado"
+},
+    {
+        "id":5,
+        "precio":1370,
+        "title":"Pastas"
+},
+    {
+        "id":6,
+        "precio":1800,
+        "title":"Tortas"
+},
+    {
+        "id":7,
+        "precio":700,
+        "title":"Sopa"
+},
+    {
+        "id":8,
+        "precio":900,
+        "title":"Milanesa"
+},
+    {
+        "id":9,
+        "precio":100,
+        "title":"Gelatina"
+},
+    {
+        "id":10,
+        "precio":500,
+        "title":"Ensalada de frutas"
+}
+]
